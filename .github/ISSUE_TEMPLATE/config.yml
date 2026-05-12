@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Rivya website
+    url: https://rivya.ai
+    about: Use the official Rivya website for product access and support.
+  - name: Rivya developer resources
+    url: https://rivya.ai/developers
+    about: Read developer and API resources for integrations.
